@@ -32,7 +32,7 @@ Para instalar a biblioteca:
 pip install scikit-learn
 ```
 
-## 💬 Aula 3 - Python Dev
+## 💬 Aula 4 - Python Dev
 
 Esta aula teve como objetivo o desenvolvimento de um chat em tempo real para múltiplos usuários, utilizando a biblioteca Flet. O exercício prático envolveu a criação de uma página onde o usuário inseria seu nome e era redirecionado para o ambiente de chat. Nesse espaço, era possível conversar com diversas pessoas simultaneamente, com a comunicação sendo realizada via WebSocket, proporcionando interações em tempo real.
 
